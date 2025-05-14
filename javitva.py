@@ -1,3 +1,3 @@
 print("Hello python Git")
 print("2. sor")
-print("harmadik sor")
+print("3. sor")
